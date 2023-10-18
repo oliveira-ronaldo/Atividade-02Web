@@ -1,4 +1,10 @@
-p {
-	background-color: blue;
-	color: white;
-}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    color: white;
+  }
+  
